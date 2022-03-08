@@ -1,0 +1,34 @@
+/* SearchEW CSS. */
+
+/* HTML */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* Containers */
+
+.container-fluid {
+    padding: 4% 7%;
+}
+
+
+
+/* Navigation Bar */
+
+.navbar {}
+
+/* Navigation Section */
+
+#navbar {}
+
+/* Main Section */
+
+#main {
+    
+}
