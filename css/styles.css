@@ -19,10 +19,42 @@ body {
 
 /* Navigation Section */
 
-#navbar {}
+.nav-bar {
+    padding-top: 1%;
+
+}
 
 /* Main Section */
 
 #main {
-    
+    text-align: center;
 }
+
+/* Headings */
+
+.heading-text {
+    font-size: 5rem;
+
+}
+
+/* Form elements */
+
+#search {
+    display: block;
+    position: relative;
+    margin: auto;
+    text-align: center;
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 25px;
+}
+
+.download-btn {
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.brand-icon {
+    margin-right: 5px;
+}
+
